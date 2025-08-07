@@ -1,0 +1,2 @@
+C:/Users/srtxl/StudioProjects/Zootopia/android/app/.cxx/RelWithDebInfo/555c434c/x86/CMakeFiles/edit_cache.dir
+C:/Users/srtxl/StudioProjects/Zootopia/android/app/.cxx/RelWithDebInfo/555c434c/x86/CMakeFiles/rebuild_cache.dir

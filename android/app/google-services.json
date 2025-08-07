@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378028871390",
+    "project_id": "zootopia-ae68f",
+    "storage_bucket": "zootopia-ae68f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378028871390:android:f5d0376f42fa1eb1d5fc4f",
+        "android_client_info": {
+          "package_name": "com.zootopia.zootopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5XS-yqETE6l_P6cS7s1u_slKTMj4KeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
